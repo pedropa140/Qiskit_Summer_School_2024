@@ -4,3 +4,6 @@ Scripts/
 pyvenv.cfg
 gitpush.py
 .env
+qgss-2024/
+etc/
+share/
